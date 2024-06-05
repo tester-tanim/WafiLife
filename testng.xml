@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/Users/ishti/OneDrive/Documents/GitHub/wafilife">
+        <classes>
+            <class name="testcases.TestLogin">
+                <methods>
+                    <include name="checkHeading"/>
+                    <include name="testInputFields"/>
+                    <include name="testLoginWithoutInvalidCredentials"/>
+                    <include name="loginWithValidCredential"/>
+                    <include name="isForgetPasswordButtonWorking"/>
+                    <include name="passwordResetConfirmation"/>
+                </methods>
+            </class>
+
+            <class name="testcases.TestBookdetailsPage">
+                <methods>
+                    <include name="goToBookDetailsPage"/>
+                    <include name="checkOrderButtonPresence"/>
+                    <include name="checkIfProductIsAddedToCart"/>
+                </methods>
+            </class>
+            <class name="testcases.TestHomePage">
+                <methods>
+                    <include name="testHomepageUrl"/>
+                    <include name="testHomepageTitle"/>
+                    <include name="isLoginButtonVisible"/>
+                    <include name="isLoginButtonClickable"/>
+                </methods>
+            </class>
+            <class name="testcases.TestWritersPage">
+                <methods>
+                    <include name="hoverOnWriter"/>
+                    <include name="gotoWritersPage"/>
+                    <include name="gotoNextPage"/>
+                    <include name="searchPreferredWriter"/>
+                    <include name="countAndGetBooksName"/>
+                    <include name="selectBook"/>
+                </methods>
+            </class>
+
+        </classes>
+    </test>
+</suite>
