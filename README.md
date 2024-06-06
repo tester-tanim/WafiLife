@@ -1,10 +1,5 @@
-# Hi there 👋, I'm Ishtiaque Ahmed Tanim
 
-![Profile Views](https://komarev.com/ghpvc/?username=ishtiaqueahmedtanim&color=blue)
-
-## 🚀 About Me
-
-Hello and welcome! I'm Ishtiaque Ahmed Tanim, a passionate software quality assurance professional committed to delivering high-quality software solutions.
+👋 Hello and welcome! I'm Ishtiaque Ahmed Tanim, a passionate software quality assurance professional committed to delivering high-quality software solutions.
 
 Despite not having a traditional computer science background, I have discovered a deep fascination for the intricate dance between code and perfection. My academic journey has been in Physics, a realm where I've cultivated a unique blend of analytical prowess and creative problem-solving.
 
