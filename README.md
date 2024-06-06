@@ -22,11 +22,6 @@ Join me on this exhilarating adventure into the realm of Software Quality Assura
 - Web Automation with Selenium & other Frameworks
 - Mobile Automation with Appium Framework
 
-## 📊 GitHub Stats
-
-![Ishtiaque Ahmed Tanim's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishtiaqueahmedtanim&show_icons=true&theme=radical)
-
-
 
 ## 📫 Connect with Me
 
